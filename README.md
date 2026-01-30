@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Liviuz4
 - 👀 I’m interested in Computer Science, engineering and space exploration. 
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on whatever proyects takes me to work with diverse and interesting people. 
+- 💞️ I’m looking to collaborate on whatever projects takes me to work with diverse and interesting people. 
 - 📫 How to reach me... https://www.linkedin.com/in/agust%C3%ADn-livio-17b062205/
